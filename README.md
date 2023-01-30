@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanskrutiMopari&show_icons=true&locale=en" alt="SanskrutiMopari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanskrutiMopari&" alt="SanskrutiMopari" backgroundcolour="black" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanskrutiMopari&" alt="SanskrutiMopari" style="background-color:powderblue;" /></p>
